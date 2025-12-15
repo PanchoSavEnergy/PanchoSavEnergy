@@ -1,7 +1,8 @@
 # ¡Hola! 👋 Soy Francisco Marín
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PanchoSavEnergy/PanchoSavEnergy/main/banner.png" width="100%" alt="Banner"/>
 
-<img src="https://github.com/PanchoSavEnergy/PanchoSavEnergy/blob/main/banner.gif" width="100%"/>
 
 ## 👨💻 Sobre mí
 - 🔭 Actualmente trabajando en...
@@ -24,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/PanchoSavEnergy/PanchoSavEnergy/main/banner.gif" alt="Banner" width="100%"/>
 
-
+<img src="https://github.com/PanchoSavEnergy/PanchoSavEnergy/blob/main/banner.gif" width="100%"/>
 
 
 
