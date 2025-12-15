@@ -1,7 +1,6 @@
-# ¡Hola! 👋 Soy Francisco, y te doy la bienvenida a mi perfil de Github.
-
+# ¡Hola! 👋 Soy Francisco,
+Y te doy la bienvenida a mi perfil de Github.
 [![Banner animado](https://github.com/PanchoSavEnergy/PanchoSavEnergy/blob/main/banner.png)](https://github.com/PanchoSavEnergy)
-
 
 ## 🛠️ Tecnologías
 ![Tecnología](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
