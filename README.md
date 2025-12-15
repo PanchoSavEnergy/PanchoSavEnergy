@@ -1,3 +1,39 @@
+# ¡Hola! 👋 Soy [Tu Nombre]
+
+[![Banner animado](https://github.com/PanchoSavEnergy/PanchoSavEnergy/blob/main/banner.gif)](https://github.com/PanchoSavEnergy)
+
+## 👨💻 Sobre mí
+- 🔭 Actualmente trabajando en...
+- 🌱 Aprendiendo...
+- 👯 Busco colaborar en...
+- 🤔 Busco ayuda con...
+- 💬 Pregúntame sobre...
+- 📫 Cómo contactarme:...
+- ⚡ Dato curioso:...
+
+## 🛠️ Tecnologías
+![Tecnología](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tecnología](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<!-- Añade más badges según necesites -->
+
+</style>
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 <div class="banner">
   <h1>¡Hola Mundo!</h1>
@@ -20,8 +56,7 @@
   100% { background-position: 100% 50%; }
 }
   
-</style>
-<!--
+
 **PanchoSavEnergy/PanchoSavEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
