@@ -16,7 +16,7 @@
 ![Tecnología](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 <!-- Añade más badges según necesites -->
 
-</style>
+
 <!--
 
 
@@ -55,7 +55,7 @@
   0% { background-position: 0% 50%; }
   100% { background-position: 100% 50%; }
 }
-  
+</style>
 
 **PanchoSavEnergy/PanchoSavEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
